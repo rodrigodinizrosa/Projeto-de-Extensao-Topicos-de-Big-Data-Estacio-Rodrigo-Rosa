@@ -1,0 +1,9 @@
+GIT:
+https://github.com/rodrigodinizrosa/Projeto-de-Extens-o-T-picos-de-Big-Data-em-Python-III
+
+
+https://www.ibge.gov.br/estatisticas/sociais/rendimento-despesa-e-consumo/9050-pesquisa-de-orcamentos-familiares.html
+
+https://github.com/majubix/TopicosdeBigDatacomPython
+
+https://github.com/GustSR/topicos_big_data_PYTHON
